@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\WindowsApp2\obj\Debug\WindowsApp2.vbproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\WindowsApp2\obj\Debug\WindowsApp2.Form1.resources
+C:\Users\Admin\source\repos\WindowsApp2\obj\Debug\WindowsApp2.Form2.resources
+C:\Users\Admin\source\repos\WindowsApp2\obj\Debug\WindowsApp2.Resources.resources
+C:\Users\Admin\source\repos\WindowsApp2\obj\Debug\WindowsApp2.vbproj.GenerateResource.cache
+C:\Users\Admin\source\repos\WindowsApp2\obj\Debug\WindowsApp2.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\WindowsApp2\bin\Debug\WindowsApp2.exe.config
+C:\Users\Admin\source\repos\WindowsApp2\bin\Debug\WindowsApp2.exe
+C:\Users\Admin\source\repos\WindowsApp2\bin\Debug\WindowsApp2.pdb
+C:\Users\Admin\source\repos\WindowsApp2\bin\Debug\WindowsApp2.xml
+C:\Users\Admin\source\repos\WindowsApp2\obj\Debug\WindowsApp2.exe
+C:\Users\Admin\source\repos\WindowsApp2\obj\Debug\WindowsApp2.xml
+C:\Users\Admin\source\repos\WindowsApp2\obj\Debug\WindowsApp2.pdb
